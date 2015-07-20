@@ -1,0 +1,27 @@
+{
+  "name": "turmeric",
+  "version": "0.0.1",
+  "description": "Simple function for currying other functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolasleblanc/turmeric.git"
+  },
+  "keywords": [
+    "js",
+    "curry",
+    "functional"
+  ],
+  "author": "Nikolas LeBlanc <nikolas.leblanc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolasleblanc/turmeric/issues"
+  },
+  "homepage": "https://github.com/nikolasleblanc/turmeric#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
