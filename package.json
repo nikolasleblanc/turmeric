@@ -1,6 +1,6 @@
 {
   "name": "turmeric",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple function for currying other functions",
   "main": "index.js",
   "scripts": {
